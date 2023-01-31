@@ -1,0 +1,2 @@
+# mydorks
+Kumpulan dorks sederhana.
